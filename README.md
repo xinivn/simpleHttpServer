@@ -1,4 +1,4 @@
-# SimpleHttpServer Documents
+# SimpleHttpServer
 ---
 ## Installation
 ~~~
@@ -9,6 +9,7 @@
 
 ## Usage
 ~~~
+    // Node.js v10.13.0
     // node server.js port
     // 默认端口为 8080.
     node server.js 8085
